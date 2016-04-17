@@ -1,0 +1,6 @@
+db_name: "elastic_search"
+#db_data: {ip: "10.0.1.21", port: 9200}
+db_ip:  "10.0.1.21"
+db_port: "9200"
+db_sec:  {username: "None", password: "None"}
+db_full: "http://10.0.1.21:9200"

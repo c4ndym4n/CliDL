@@ -1,0 +1,14 @@
+base:
+ - help: "Get Help Menu"
+ - exit: "Exit Interactive Mode"
+ - add: "This is the C function"
+ - find: "This is the R function"
+ - edit: "This is the U function"
+ - remove: "This is the D function"
+
+db:
+ - connect: "This checks if connection is successful"
+ - new_db: "Add a new DB address"
+
+additional:
+ - extra: "This is just4fun a extra function"
